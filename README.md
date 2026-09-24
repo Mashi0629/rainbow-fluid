@@ -1,5 +1,3 @@
-# rainbow-fluid
-cursor-controlled rainbow fluid / gradient animation
 # Rainbow Fluid
 
 A cursor-controlled rainbow fluid simulation that runs in the browser. It solves real incompressible fluid equations (stable fluids) on the GPU with WebGL2. No dependencies and no build step.
